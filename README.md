@@ -3,7 +3,8 @@
 
 <p>-💻 I'm deeply interested in web development and constantly exploring new technologies.</p>
 <p>-🌱 I'm expanding my skills in React and web development, working towards becoming a full-stack developer.</p>
-<p>-🏋️ I enjoy staying active through gym workouts and I'm also an anime enthusiast. -👀 Looking to Collaborate On: Open-source JavaScript projects, or any initiative that allows me to contribute to impactful tech solutions.</p>
+<p>-🏋️ I enjoy staying active through gym workouts and I'm also an anime enthusiast.</p> 
+<p>-👀 Looking to Collaborate On: Open-source JavaScript projects, or any initiative that allows me to contribute to impactful tech solutions.</p>
 <p>-📫 Feel free to connect with me on LinkedIn or via email at nabidev.diop@gmail.com.</p>
 
 ---
